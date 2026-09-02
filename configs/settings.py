@@ -11,4 +11,6 @@ class project_dir():
 
     CLEANED_DIR = DATA_DIR/'cleaned'
 
+    FEATURE_ENGINEERED = DATA_DIR/'feature_engineered'
+
 
