@@ -20,6 +20,8 @@ psycopg = "^3.3.4"
 dotenv = "^0.9.9"
 python-dotenv = "^1.2.3"
 scipy = "^1.18.1"
+streamlit = "^1.64.0"
+plotly = "^7.1.0"
 
 
 [tool.poetry.group.dev.dependencies]
