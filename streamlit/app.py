@@ -26,11 +26,11 @@ st.sidebar.markdown("---")
 page = st.sidebar.radio(
     "go to",
     [
-        "Home",
-        "Sales analysis",
-        "Customer analysis",
-        "Seller analysis",
-        "Delivery analysis",
+        "home",
+        "sales analysis",
+        "customer analysis",
+        "seller analysis",
+        "delivery analysis",
     ],
 )
 st.sidebar.markdown("---")
